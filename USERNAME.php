@@ -3,7 +3,7 @@
 $wgExtensionCredits['variable'][] = array(
 	'name' => 'USERNAME',
 	'author' => 'UltrasonicNXT/Adam Carter',
-	'version' => '1.0',
+	'version' => '1.1',
 	'description' => 'Adds an USERNAME magic word',
 	'url' => 'https://github.com/Brickimedia/USERNAME',
 );
